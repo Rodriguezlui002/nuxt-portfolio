@@ -8,7 +8,7 @@
                     <li class="bg-yellow-400 rounded px-5 py-2 transform transition duration-500 hover:-translate-y-1">JavaScript</li>
                     <li class="bg-purple-400 rounded px-5 py-2 transform transition duration-500 hover:-translate-y-1">Java</li>
                     <li class="bg-green-400 rounded px-5 py-2 transform transition duration-500 hover:-translate-y-1">CSS Frameworks</li>
-                    <li class="bg-red-400 rounded px-5 py-2 transform transition duration-500 hover:-translate-y-1">SQL</li>
+                    <li class="bg-red-400 rounded px-5 py-2 transform transition duration-500 hover:-translate-y-1">Git</li>
                 </ul>
             </div>
             <div class="w-2/5 max-w-xs my-auto">

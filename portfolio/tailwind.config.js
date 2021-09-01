@@ -20,11 +20,16 @@ module.exports = {
       },
       screens: {
         'xs': '480px',
-      }
+      },
+      colors: {
+        'cwu': '#ab0032'
+      },
     },
   },
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/aspect-ratio'),
+  ],
 }
