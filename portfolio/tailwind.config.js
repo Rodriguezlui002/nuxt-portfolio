@@ -15,6 +15,7 @@ module.exports = {
       height: theme => ({
         'screen/30': '30vh',
         'screen/40': '40vh',
+        'screen/50': '50vh',
         'screen/60': '60vh'
       }),
       width: {
