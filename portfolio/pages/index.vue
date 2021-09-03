@@ -6,14 +6,15 @@
     <div class="mb-6">
       <TheIntro />
     </div>
-    <div class="flex flex-col md:flex-row space-y-6 mb-6 md:space-y-0">
+    <div class="flex flex-col md:flex-row space-y-6 mb-10 md:space-y-0">
       <TheCourses class="flex-1" />
       <TheSkills class="flex-1" />
     </div>
-    <div class="flex flex-wrap justify-center mb-6">
-      <ProjectCard />
-      <ProjectCard />
-      <ProjectCard />
+    <div id="projects" class="mb-6 mx-6">
+      <h2 class="text-2xl uppercase font-bold tracking-wider text-center mb-5">Projects</h2>
+      <div class="mb-6">
+        <ProjectCard />
+      </div>
     </div>
     <div class="flex justify-center">
       <TheTech />

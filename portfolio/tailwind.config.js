@@ -13,6 +13,8 @@ module.exports = {
         'hero': "linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('@/assets/hero.jpg')"
       }),
       height: theme => ({
+        'screen/30': '30vh',
+        'screen/40': '40vh',
         'screen/60': '60vh'
       }),
       width: {

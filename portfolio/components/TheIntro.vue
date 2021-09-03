@@ -6,7 +6,7 @@
                 <h4 class="text-xl font-bold tracking-wide">Hi! I'm Luis.</h4>
                 <p class="text-lg">A senior at <span class="text-cwu font-semibold">Central Washington University</span>. Studying computer science with a passion for web developement.</p>
             </div>
-            <img class="w-40 md:w-52" src="@/assets/E-Learning.svg" alt="Character">
+            <img class="w-40 md:w-52" src="@/assets/E-learning.svg" alt="Character">
         </div>
     </div>
 </template>
