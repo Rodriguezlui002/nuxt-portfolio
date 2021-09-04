@@ -10,7 +10,7 @@
       <TheCourses class="flex-1" />
       <TheSkills class="flex-1" />
     </div>
-    <div id="projects" class="mb-6 mx-6">
+    <div id="projects" class="mb-6 mx-3">
       <h2 class="text-2xl uppercase font-bold tracking-wider text-center mb-5">Projects</h2>
       <div class="mb-6">
         <ProjectCard />
