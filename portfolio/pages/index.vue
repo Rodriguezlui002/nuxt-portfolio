@@ -6,7 +6,7 @@
     <div class="mb-6">
       <TheIntro />
     </div>
-    <div class="flex flex-col md:flex-row space-y-6 mb-10 md:space-y-0">
+    <div class="flex flex-col md:flex-row gap-6 mb-10">
       <TheCourses class="flex-1" />
       <TheSkills class="flex-1" />
     </div>

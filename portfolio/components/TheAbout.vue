@@ -1,12 +1,12 @@
 <template>
     <div class="bg-blue-300 p-6 text-gray-800 flex justify-center">
         <div class="w-full max-w-2xl">
-            <div class="aspect-w-1 aspect-h-1 mb-6">
-                <div class="grid grid-cols-3 grid-rows-3 gap-6">
-                    <img class="w-full h-full object-cover object-center col-span-2 row-span-2" src="@/assets/beach.jpg" alt="Beach">
-                    <img class="w-full h-full object-cover object-center" src="@/assets/rainier.jpg" alt="Beach">
-                    <img class="w-full h-full object-cover object-center" src="@/assets/reeves.jpg" alt="Beach">
-                    <img class="w-full h-full object-cover object-center col-span-3" src="@/assets/car.jpg" alt="Beach">
+            <div class="mb-6">
+                <div class="h-screen/60 grid grid-cols-3 grid-rows-3 gap-3">
+                    <img class="w-full h-full col-span-2 row-span-2 object-cover" src="@/assets/beach.jpg" alt="Beach">
+                    <img class="w-full h-full object-cover" src="@/assets/rainier.jpg" alt="Beach">
+                    <img class="w-full h-full object-cover" src="@/assets/reeves.jpg" alt="Beach">
+                    <img class="w-full h-full object-cover col-span-3" src="@/assets/car.jpg" alt="Beach">
                 </div>
             </div>
             <div>
