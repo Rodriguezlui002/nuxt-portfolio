@@ -6,9 +6,9 @@
     <div class="mb-6">
       <TheIntro />
     </div>
-    <div class="flex flex-col md:flex-row gap-6 mb-10">
-      <TheCourses class="flex-1" />
-      <TheSkills class="flex-1" />
+    <div class="flex flex-col md:flex-row mb-10">
+      <TheCourses class="flex-1 my-6" />
+      <TheSkills class="flex-1 my-6" />
     </div>
     <div id="projects" class="mb-6 mx-3">
       <h2 class="text-2xl uppercase font-bold tracking-wider text-center mb-5">Projects</h2>
