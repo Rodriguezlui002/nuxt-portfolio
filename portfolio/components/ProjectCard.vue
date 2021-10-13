@@ -24,12 +24,14 @@
         </div>
         <div class="bg-gray-200 rounded shadow-lg h-auto max-h-60 max-w-md p-2 grid grid-cols-4 grid-rows-3 gap-3 m-3">
             <div class="col-span-2 row-span-2">
-                <img class="w-full h-full object-cover object-center rounded" src="@/assets/Construction.jpg" alt="Construction">
+                <img class="w-full h-full object-cover object-center rounded" src="@/assets/vue_weather.png" alt="Construction">
             </div>
-            <h3 class="col-span-2 flex justify-center my-auto text-xl uppercase font-semibold tracking-wide">Coming Soon</h3>
-            <p class="text-sm xs:text-base col-span-2 row-span-2">Web app using Nuxt.js, Tailwind CSS, as well as leveraging Supabase as a backend</p>
+            <h3 class="col-span-2 flex justify-center my-auto text-xl uppercase font-semibold tracking-wide">Vue Weather</h3>
+            <p class="text-sm xs:text-base col-span-2 row-span-2">Web app utilizing Vue.js, Tailwind CSS, as well as fetching data from OpenWeather API</p>
             <div class="col-span-2 flex justify-center items-center">
-                <a class="rounded-lg bg-blue-600 px-4 py-1 text-lg font-semibold tracking-wide text-gray-100" href="#">Soon</a>
+                <a class="flex justify-center items-center gap-2 rounded-lg bg-blue-600 px-4 py-1 text-lg font-semibold tracking-wide text-gray-100" href="https://github.com/Rodriguezlui002/vue-weather">
+                    <img class="w-6 h-6" src="@/assets/github-icon.svg" alt="GitHub">Repo
+                </a>
             </div>
         </div>
     </div>
